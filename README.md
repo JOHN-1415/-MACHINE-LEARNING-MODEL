@@ -15,6 +15,7 @@ MENTOR: NEELA SANTOSH
 DESCRIPTION:
 
 Project Title: Machine Learning Model for Text Classification
+
 📌 Introduction
 In today's data-driven world, text classification plays a crucial role in automating and optimizing various processes across industries. From filtering spam emails to analyzing customer feedback, machine learning models can efficiently classify textual data into predefined categories. This project aims to develop a predictive machine learning model using Scikit-Learn that can analyze text data and classify it based on specific criteria.
 
@@ -42,6 +43,7 @@ Result Visualization and Interpretation
 
 Data visualization techniques, such as heatmaps, bar charts, and word clouds, can be used to understand model predictions and key insights.
 Based on the analysis, adjustments such as hyperparameter tuning or feature selection may be applied to improve the model’s performance.
+
 📌 Applications of the Project
 This project can be applied to multiple real-world scenarios where text classification is essential, including:
 
